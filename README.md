@@ -2,7 +2,7 @@
 
 ### Live version is available here: https://react-my-burger-e9b44.firebaseapp.com/
 
-##App Description
+## App Description
 
 This project was bootstrapped with Create React App.
 How to use the downloaded files
@@ -14,9 +14,9 @@ How to use the downloaded files
 => This is a simple react demo project using all I learned
 
 
-=> What I used?
-React 16 / Jsx pages
--React Router
+## What I used?
+### React 16 / Jsx pages
+### React Router
 React-Thunk
 Redux
 Axio
