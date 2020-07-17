@@ -16,6 +16,7 @@ How to use the downloaded files
 
 => What I used?
 -React 16 / Jsx pages
+
 -React Router
 React-Thunk
 Redux
