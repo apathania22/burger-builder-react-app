@@ -17,13 +17,13 @@ How to use the downloaded files
 ## What I used?
 ### React 16 / Jsx pages
 ### React Router
-React-Thunk
-Redux
-Axio
-Jest / Enzyme
-Webpack
-Babel
-Pure JavaScript
-HTML5
-CSS3 w/ Mobile First
-FireBase for Database and Hosting
+### React-Thunk
+### Redux
+### Axio
+### Jest / Enzyme
+### Webpack
+### Babel
+### Pure JavaScript
+### HTML5
+### CSS3 w/ Mobile First
+### FireBase for Database and Hosting
