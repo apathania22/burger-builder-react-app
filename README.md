@@ -1,8 +1,8 @@
-Burger Builder Application with ReactJS
+# Burger Builder Application with ReactJS
 
-Live version is available here: https://react-my-burger-e9b44.firebaseapp.com/
+### Live version is available here: https://react-my-burger-e9b44.firebaseapp.com/
 
-App Description
+##App Description
 
 This project was bootstrapped with Create React App.
 How to use the downloaded files
@@ -15,12 +15,11 @@ How to use the downloaded files
 
 
 => What I used?
--React 16 / Jsx pages
-
+React 16 / Jsx pages
 -React Router
 React-Thunk
 Redux
-Axios
+Axio
 Jest / Enzyme
 Webpack
 Babel
